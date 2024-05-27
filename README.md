@@ -12,6 +12,6 @@ git clone https://github.com/MorpheusMtrx/exchange-script
 
 Requirements: pandas, numpy, matplotlib, seaborn, yfinance, datetime, timedelta (Without these, you can't run the GUI)
 
-python3 crypto.py
+python3 script.py
 
 Support this project: Crypto Address (BTC/ETH only): ETH: 0xd80b0497478A49583981559FD6f55bDb73d483C7 BTC: bc1qwy9yqkmawesxnn5u206pf3344jvutfcvdz2fs2
