@@ -10,7 +10,7 @@ sudo apt install git
 
 git clone https://github.com/MorpheusMtrx/exchange-script
 
-Requirements: pandas, numpy, matplotlib, seaborn, yfinance, datetime, timedelta (Without these, you can't run the GUI)
+cd exchange-script
 
 python3 script.py
 
